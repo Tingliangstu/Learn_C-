@@ -1,2 +1,2 @@
-# Some practice codes for learning c++ projects
-  1. Address book management
+# Some practice codes for learning C++ projects
+1. Address book management
